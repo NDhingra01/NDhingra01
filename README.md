@@ -41,5 +41,5 @@
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [sass]: https://sass-lang.com/documentation
-[vsc]: https://code.visualstudio.com/downloadlist=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[vsc]: https://code.visualstudio.com/download
 
