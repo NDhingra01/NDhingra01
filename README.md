@@ -1,4 +1,4 @@
-# Hi there, I'm Nakul - aka [NDhingra][website] 👋 
+# Hi there, I'm Nakul - aka [NDhingra][Website] 👋 
 
 
 
@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to play video games 🎮📱 
-- ⌛ If you have check you my [website]
+- ⌛ If you have check you my [Website]
 
 <br>
 
@@ -45,7 +45,7 @@
 
 </details>
 
-[website]: https://ndhingra.netlify.app/
+[Website]: https://ndhingra.netlify.app/
 [python]: https://www.python.org/
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS
