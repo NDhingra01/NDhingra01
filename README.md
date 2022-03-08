@@ -14,7 +14,13 @@
 <br>
 
 ```py
-print('Hello World')
+{
+'Name': 'Nakul Dhingra', 
+'Age': 'Unknown', 
+'Nationality': 'Indian', 
+'Technologies': 'HTML, CSS, Python', 
+'Code Editor': 'Vs Code'
+}
 ```
 
 ### Languages and Tools:
