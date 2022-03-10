@@ -1,6 +1,7 @@
 # Hi there, I'm Nakul - aka [NDhingra][Website] 👋 
+<br>
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&size=30&lines=Hi%2C+I+am+NDhingra;Just+a+school+kid;I+love+scripting+in+Python)](https://git.io/typing-svg)
 
 
 
