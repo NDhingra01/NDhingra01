@@ -36,12 +36,13 @@
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][sass]
 
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nDhingra01&langs_count=10&hide=shell&theme=radical)](https://github.com/nDhingra01)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NDhingra01&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25")](https://github.com/anuraghazra/github-readme-stats)
+
+![Tropies](https://github-profile-trophy.vercel.app/?username=NDhingra01&theme=nord)
 
 
 <br />
-<br />
-
+  
 ![](https://komarev.com/ghpvc/?username=nDhingra01)
 
 ---
@@ -50,7 +51,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NDhingra01&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+ <img align="left" alt="NDhinga Github Stats" src="https://github-readme-stats.vercel.app/api?username=NDhingra01&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
 
