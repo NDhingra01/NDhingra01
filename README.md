@@ -13,6 +13,8 @@
 - ⚡ Fun fact: I love to play video games 🎮📱 
 - ⌛ If you have check you my [Website]
 
+
+
 <br>
 
 ```py
@@ -33,9 +35,14 @@
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][css]
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][sass]
 
+<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nDhingra01&langs_count=10&hide=shell&theme=radical)](https://github.com/nDhingra01)
+
 
 <br />
 <br />
+
+![](https://komarev.com/ghpvc/?username=nDhingra01)
 
 ---
 
