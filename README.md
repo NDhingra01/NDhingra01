@@ -8,7 +8,7 @@
 
 ## I'm a Student, Developer !!
 - 🌱 I’m currently learning Python 🐍
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate for pair programming 
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to play video games 🎮📱 
 - ⌛ If you have check you my [Website]
