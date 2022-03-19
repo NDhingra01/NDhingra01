@@ -36,8 +36,7 @@
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][sass]
 
 <br />
-  
-![](https://komarev.com/ghpvc/?username=nDhingra01)
+ ![](https://komarev.com/ghpvc/?username=nDhingra01)
 
 ---
 
