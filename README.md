@@ -35,8 +35,11 @@
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][css]
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][sass]
 
-<br />
- ![](https://komarev.com/ghpvc/?username=nDhingra01)
+<br>
+ 
+ <br>
+ 
+![](https://komarev.com/ghpvc/?username=nDhingra01)
 
 ---
 
